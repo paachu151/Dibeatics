@@ -1,0 +1,9 @@
+[2022-01-20 13:03:15Z] Experiment: mslearn-designer-train-diabetes, Run target: diabetesproj, Run Id: 24cc44ff-5f17-41b9-a6c8-34beda0c4bc3, WorkspaceName: diabetes, WorkspaceId: 7bf7bcfa-bce0-4004-b627-3f076e1780ca
+[2022-01-20 13:03:15Z] Starting run in Execution Service
+[2022-01-20 13:03:16Z] RunId:[24cc44ff-5f17-41b9-a6c8-34beda0c4bc3] ParentRunId:[b55e2cc4-9c5d-408a-905f-f84cb5593562] ComputeTarget:[]
+[2022-01-20 13:03:16Z] Job is in progress. Execution status: Preparing.
+[2022-01-20 13:03:18Z] Job is in progress. Execution status: Queued.
+[2022-01-20 13:03:18Z] Job is in progress. Execution status: Queued.
+[2022-01-20 13:03:22Z] Job is in progress. Execution status: Running.
+[2022-01-20 13:03:42Z] Job is in progress. Execution status: Finalizing.
+[2022-01-20 13:03:48Z] Job finished, job RunId is 24cc44ff-5f17-41b9-a6c8-34beda0c4bc3
